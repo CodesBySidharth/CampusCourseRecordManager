@@ -3,17 +3,33 @@
 ## Project Overview
 Campus Course & Records Manager (CCRM) is a java project for managing students, courses, enrollments, grades, and transcripts efficiently.
 
-*Key features include:*
-- *Student Management:* Create, list, search by name, and update student records.
-- *Course Management:* Create and list courses with code, name, and credits.
-- *Enrollments:* Enroll/unenroll students in courses and view enrollments by student or course.
-- *Grades:* Record and update grades, calculate GPA, generate transcripts.
-- *Import/Export Data:* Simulate importing/exporting students and courses.
-- *Backup/Restore:* Basic backup and restore functionality.
-- *Reports:* Generate transcript and GPA-based rankings.
-- *System Info:* Displays Java version and OS info.
+# Application features
+- Student Management
+  - Add, update, delete, search, and list students
+- Course Management
+  - Add, update, delete, search, and filter courses
+- Enrollment & Grades
+  - Enroll students in courses
+  - Record and update grades
+- Transcripts & GPA
+  - Generate transcripts
+  - Calculate GPA
+- Data Handling
+  - Import and export records
+  - Backup and restore data
+- Reports
+  - Generate summary reports
+  - System information display
+- Utilities
+  - Validation utilities and exception handling
 
 ---
+
+# Application concepts
+- Core Java
+- OOP principles
+- CLI base menu driven interface
+- Exception Handling
 
 ## How to Run
 
@@ -36,7 +52,7 @@ cd CampusCourseRecordManager
    ```bash
    java CCRM
    ```
-4. Follow the on-screen menu to manage students, courses, enrollments, grades, and reports.
+4. Follow the on-screen menu to manage students, courses, enrollments, grades, and reports.<br>
 Example menu options :
 - 1 → Manage Students
 - 2 → Manage Courses
@@ -48,6 +64,7 @@ Example menu options :
 - 8 → Info
 - 9 → Exit the application
 
+#
 # Evolution of Java
 - *1995:* Java 1.0 – “Write Once, Run Anywhere”
 - *1998:* Java 1.2 – Swing and Collections framework introduced
@@ -62,4 +79,8 @@ matching, and performance improvements
 - *JRE (Java Runtime Environment):* Provides JVM + standard libraries needed to run Java programs.
 - *JDK (Java Development Kit):* Complete package for developing and running Java programs (includes JRE + compilers + tools).
 
-
+# Project Author 
+- Name: Sidharth Sharma
+-Reg no. : 24BCE11452
+- Course: Programming in Java(CSE2006)
+-Institute: VIT Bhopal University
