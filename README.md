@@ -27,8 +27,8 @@ Campus Course & Records Manager (CCRM) is a java project for managing students, 
 ### Steps
 1. Clone the repository:
 ```bash
-git clone <https://github.com/CodesBySidharth/CampusCourseRecordManager>
-cd CCRM
+git clone https://github.com/CodesBySidharth/CampusCourseRecordManager
+cd CampusCourseRecordManager
 ```
 2. Compile the java file:
    ```bash
@@ -62,3 +62,5 @@ Example menu options:
 JVM (Java Virtual Machine): Runs compiled Java bytecode (.class files) on any platform.
 JRE (Java Runtime Environment): Provides JVM + standard libraries needed to run Java programs.
 JDK (Java Development Kit): Complete package for developing and running Java programs (includes JRE + compilers + tools).
+
+
