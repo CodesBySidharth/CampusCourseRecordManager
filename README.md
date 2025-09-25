@@ -37,16 +37,16 @@ cd CampusCourseRecordManager
    java CCRM
    ```
 4. Follow the on-screen menu to manage students, courses, enrollments, grades, and reports.
-Example menu options:
-*1 →* Manage Students
-2 → Manage Courses
-3 → EnrollmentsData
-4 → GradesData
-5 → Export/ImportData
-6 → BackupData
-7 → ReportsData
-8 → Info
-9 → Exit the application
+Example menu options :
+- 1 → Manage Students
+- 2 → Manage Courses
+- 3 → EnrollmentsData
+- 4 → GradesData
+- 5 → Export/ImportData
+- 6 → BackupData
+- 7 → ReportsData
+- 8 → Info
+- 9 → Exit the application
 
 # Evolution of Java
 - *1995:* Java 1.0 – “Write Once, Run Anywhere”
