@@ -1,6 +1,4 @@
 # CampusCourseRecordManager
-PROJECT OVERVIEW
-Java project for managing the records of students, various course, enrollments, grades etx.
 
 ## Project Overview
 Campus Course & Records Manager (CCRM) is a java project for managing students, courses, enrollments, grades, and transcripts efficiently.
@@ -40,7 +38,7 @@ cd CampusCourseRecordManager
    ```
 4. Follow the on-screen menu to manage students, courses, enrollments, grades, and reports.
 Example menu options:
-1 → Manage Students
+*1 →* Manage Students
 2 → Manage Courses
 3 → EnrollmentsData
 4 → GradesData
@@ -51,16 +49,17 @@ Example menu options:
 9 → Exit the application
 
 # Evolution of Java
-1995: Java 1.0 – “Write Once, Run Anywhere”
-1998: Java 1.2 – Swing and Collections framework introduced
-2004: Java 5 – Generics, Annotations, and enhanced for-loop
-2011: Java 7 – try-with-resources, NIO improvements
-2014: Java 8 – Lambda expressions, Streams API, Date/Time API
-2017–2023: Java 9+ – Modular system, local-variable type inference, text blocks, pattern matching, and performance improvements
+-*1995:* Java 1.0 – “Write Once, Run Anywhere”
+-*1998:* Java 1.2 – Swing and Collections framework introduced
+-*2004:* Java 5 – Generics, Annotations, and enhanced for-loop
+-*2011:* Java 7 – try-with-resources, NIO improvements
+-*2014:* Java 8 – Lambda expressions, Streams API, Date/Time API
+-*2017–2023:* Java 9+ – Modular system, local-variable type inference, text blocks, pattern
+matching, and performance improvements
 
 # JDK / JRE / JVM Explained
-JVM (Java Virtual Machine): Runs compiled Java bytecode (.class files) on any platform.
-JRE (Java Runtime Environment): Provides JVM + standard libraries needed to run Java programs.
-JDK (Java Development Kit): Complete package for developing and running Java programs (includes JRE + compilers + tools).
+-*JVM (Java Virtual Machine):* Runs compiled Java bytecode (.class files) on any platform.
+-*JRE (Java Runtime Environment):* Provides JVM + standard libraries needed to run Java programs.
+-*JDK (Java Development Kit):* Complete package for developing and running Java programs (includes JRE + compilers + tools).
 
 
